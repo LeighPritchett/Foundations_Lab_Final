@@ -4,7 +4,7 @@
 **Author:** [Leigh Pritchett]  
 **Institutional Affiliation:** The Knowledge House  
 **Course:** SEC-101: Foundations Portfolio  
-**Instructor:** Night 1 Cyber Tutor  
+**Instructor:** George Robbins 
 **Date:** February 23, 2026  
 
 ---
