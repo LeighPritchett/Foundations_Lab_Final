@@ -52,6 +52,7 @@ The AAA framework—**Authentication, Authorization, and Accounting**—defines 
 * **Accounting** involves tracking and logging the actions taken by a user during their session for audit purposes.
 
 **The Impact of Governance on Cybersecurity Roles**
+
 Governance provides the necessary oversight and strategic framework for cybersecurity roles within an institution. It ensures that security practitioners operate within established policies to maintain organizational compliance. Effective governance prevents individuals and entities from violating internal company standards as well as broader state and federal regulations, such as HIPAA or GDPR.
 
 ### References
