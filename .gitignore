@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment secrets (Critical for GRC)
+.env
+
+# Temporary folders
+node_modules/
+temp/
