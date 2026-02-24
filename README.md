@@ -1,10 +1,10 @@
 # Foundations Lab Final: Night 1
 ## The Professional Identity & Workbench
 
-**Author:** Leigh Pritchett
-**Institutional Affiliation:** The Knowledge House  
+**Author:** Leigh Pritchett  
+**Institutional Affiliation:** The Knowledge House    
 **Course:** SEC-101: Foundations Portfolio  
-**Instructor:** George Robbins 
+**Instructor:** George Robbins  
 **Date:** February 23, 2026  
 
 ---
