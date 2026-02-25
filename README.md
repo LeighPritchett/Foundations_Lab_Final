@@ -28,7 +28,7 @@ MITRE. (2024). *MITRE ATT&CK®*. https://attack.mitre.org/
 
 ---
 
-### Security Foundations and Philosophy: Governance & Frameworks
+### Security Foundations: Governance & Frameworks
 **The CIA Triad:**
 
 The CIA triad is a foundational model consisting of **Confidentiality, Integrity, and Availability**.
@@ -61,7 +61,7 @@ National Institute of Standards and Technology. (2014). *An introduction to info
 
 ---
 
-### **Reflection: The Intersections of Governance and Technical Skill**
+### **Security Philosophy and Reflection: The Intersections of Governance and Technical Skill**
 
 Governance is just as vital as technical skill in Cyber security because it provides oversight of the legal and ethical boundaries technical tools must operate within. Technical skills allow a practitioner to work with and use a system but it is governance that ensures this use align with an organization’s goals and to properly follow any regulatory requirements. 
 
