@@ -28,7 +28,7 @@ MITRE. (2024). *MITRE ATT&CK®*. https://attack.mitre.org/
 
 ---
 
-### Security Foundations: Governance & Frameworks
+### Security Foundations and Philosophy: Governance & Frameworks
 **The CIA Triad:**
 
 The CIA triad is a foundational model consisting of **Confidentiality, Integrity, and Availability**.
@@ -54,6 +54,9 @@ The AAA framework—**Authentication, Authorization, and Accounting**—defines 
 Governance provides the necessary oversight and strategic framework for cybersecurity roles within an institution. It ensures that security practitioners operate within established policies to maintain organizational compliance. Effective governance prevents individuals and entities from violating internal company standards as well as broader state and federal regulations, such as HIPAA or GDPR.
 
 ### References
+
+International Organization for Standardization. (2018). *Information technology — Security techniques — Information security management systems — Overview and vocabulary* (ISO/IEC Standard No. 27000:2018). https://www.iso.org/standard/73906.html  
+
 National Institute of Standards and Technology. (2014). *An introduction to information security* (NIST Special Publication 800-12 Revision 1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.SP.800-12r1
 
 ---
