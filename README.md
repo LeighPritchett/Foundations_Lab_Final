@@ -65,10 +65,16 @@ National Institute of Standards and Technology. (2014). *An introduction to info
 
 Governance is just as vital as technical skill in Cybersecurity because it provides oversight of the legal and ethical boundaries technical tools must operate within. Therefore, my security philosophy is that proficiency in technical skills should be guided by Governance in order to properly represent the core pillars of the CIA Triad:  
 
-**Confidentiality:** Pertains not only to encryption but also to determining who has access to sensitive information.  
+* **Confidentiality:** Pertains not only to encryption but also to determining who has access to sensitive information.  
 
-**Integrity:** Should utilize rigorous scrutiny to make sure that data remains trustworthy and unaltered by bad actors.  
+* **Integrity:** Should utilize rigorous scrutiny to make sure that data remains trustworthy and unaltered by bad actors.  
 
-**Availability:** Is maintaining the reliability and resilience of the system against attacks and accidents.   
+* **Availability:** Is maintaining the reliability and resilience of the system against attacks and accidents.   
 
 Today’s material aligns most closely with the Governance, Risk, and Compliance (GRC) domain. This domain creates the "playbook" that technical teams follow to ensure their work is documented, authorized, and reproducible.  Without a strong governance framework, misused technical skills can lead to liability or data loss. Understanding why security protocols are implemented allows me to be a more effective practitioner in both offensive and investigative roles.  
+
+### References  
+
+National Institute of Standards and Technology. (2014). *An introduction to information security* (NIST Special Publication 800-12 Revision 1). U.S. Department of Commerce. https://doi.org/10.6028/NIST.SP.800-12r1  
+
+MITRE. (2024). *ATT&CK Matrix for Enterprise*. https://attack.mitre.org/matrices/enterprise/
