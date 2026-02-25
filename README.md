@@ -1,4 +1,4 @@
-# Foundations Lab Final: Night 1
+# Foundations Lab Final
 ## The Professional Identity & Workbench
 
 **Author:** Leigh Pritchett  
