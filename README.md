@@ -33,21 +33,21 @@ MITRE. (2024). *MITRE ATT&CK®*. https://attack.mitre.org/
 
 The CIA triad is a foundational model consisting of **Confidentiality, Integrity, and Availability**.
 
-* **Confidentiality** ensures that sensitive information is accessible only to those with legitimate authorization.
+* *Confidentiality* ensures that sensitive information is accessible only to those with legitimate authorization.
 
-* **Integrity** guarantees that data is true, verified, and has not been altered by unauthorized sources.
+* *Integrity* guarantees that data is true, verified, and has not been altered by unauthorized sources.
 
-* **Availability** ensures that systems and data are consistently accessible to authorized users upon demand.
+* *Availability* ensures that systems and data are consistently accessible to authorized users upon demand.
 
 **The AAA Framework**
 
 The AAA framework—**Authentication, Authorization, and Accounting**—defines the process for controlling access to network resources.
 
-* **Authentication** verifies the identity of a user or entity.
+* *Authentication* verifies the identity of a user or entity.
 
-* **Authorization** determines the specific level of access granted to that identified entity.
+* *Authorization* determines the specific level of access granted to that identified entity.
 
-* **Accounting** involves tracking and logging the actions taken by a user during their session for audit purposes.
+* *Accounting* involves tracking and logging the actions taken by a user during their session for audit purposes.
 
 **The Impact of Governance on Cybersecurity Roles**
 
@@ -65,11 +65,11 @@ National Institute of Standards and Technology. (2014). *An introduction to info
 
 Governance is just as vital as technical skill in Cybersecurity because it provides oversight of the legal and ethical boundaries technical tools must operate within. Therefore, my security philosophy is that proficiency in technical skills should be guided by Governance in order to properly represent the core pillars of the CIA Triad:  
 
-* **Confidentiality:** Pertains not only to encryption but also to determining who has access to sensitive information.  
+* *Confidentiality:* pertains not only to encryption but also to determining who has access to sensitive information.  
 
-* **Integrity:** Should utilize rigorous scrutiny to make sure that data remains trustworthy and unaltered by bad actors.  
+* *Integrity* should utilize rigorous scrutiny to make sure that data remains trustworthy and unaltered by bad actors.  
 
-* **Availability:** Is maintaining the reliability and resilience of the system against attacks and accidents.   
+* *Availability* is maintaining the reliability and resilience of the system against attacks and accidents.   
 
 Today’s material aligns most closely with the Governance, Risk, and Compliance (GRC) domain. This domain creates the "playbook" that technical teams follow to ensure their work is documented, authorized, and reproducible.  Without a strong governance framework, misused technical skills can lead to liability or data loss. Understanding why security protocols are implemented allows me to be a more effective practitioner in both offensive and investigative roles.  
 
